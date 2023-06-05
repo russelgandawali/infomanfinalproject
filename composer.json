@@ -1,0 +1,21 @@
+{
+    "name": "russe/week15",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Russe\\Week15\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "russelgandawali",
+            "email": "lessurgandawali@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "google/cloud-firestore": "^1.33",
+        "kreait/firebase-php": "^7.2",
+        "twbs/bootstrap": "^5.2"
+    }
+}
